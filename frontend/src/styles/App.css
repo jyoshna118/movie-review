@@ -1,0 +1,91 @@
+.basic-button {
+  background-color: #4f46e5; /* indigo-600 */
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+.basic-button:hover {
+  background-color: #4338ca; /* indigo-700 */
+}
+.review-page-container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.review-page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.review-page-title {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.button-group {
+  display: flex;
+  gap: 10px;
+}
+
+.basic-button {
+  padding: 10px 16px;
+  background-color: #5c67f2;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.gray-button {
+  background-color: gray;
+}
+
+.basic-button:hover {
+  opacity: 0.9;
+}
+
+.review-page-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+}
+
+.poster-section {
+  background: #f8f8f8;
+  padding: 15px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.movie-poster {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.movie-id {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #666;
+}
+
+.review-section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.write-review-box,
+.view-reviews-box {
+  background: #f4f4f4;
+  padding: 15px;
+  border-radius: 8px;
+}

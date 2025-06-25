@@ -1,0 +1,17 @@
+.oldest-container {
+  padding: 24px;
+  text-align: center;
+}
+
+.oldest-title {
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  justify-items: center;
+}

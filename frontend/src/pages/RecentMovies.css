@@ -1,0 +1,16 @@
+.recent-movies-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.recent-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  justify-items: center;
+}
