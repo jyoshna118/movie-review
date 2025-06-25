@@ -14,14 +14,23 @@ Follow these instructions to set up and run a movie-review-site project on your 
 
 ## Prerequisites
 ● Node.js – To run JavaScript on the server
+
 ● npm – To install packages
+
 ● MongoDB – To store data
+
 ● Postman – To test APIs
+
 ● Modern web browser – Like Chrome or Firefox
+
 ● Code editor – Like VS Code
+
 ● Git – For version control
+
 ● Vercel – To host the frontend
+
 ● Render – To host the backend
+
 ## Installation
 1.clone the repository
 git clone https://github.com/jyoshna118/movie-review.git
