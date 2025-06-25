@@ -35,10 +35,7 @@ Follow these instructions to set up and run a movie-review-site project on your 
 1.clone the repository
 git clone https://github.com/jyoshna118/movie-review.git
 
-2.Navigate to the project directory:
-cd MovieReviewSite
-
-3.Install dependencies:
+2.Install dependencies:
 npm install cors dotenv express mongodb mongoose mongoose-aggregate-paginate-v2
 npm install
 ## Usage
