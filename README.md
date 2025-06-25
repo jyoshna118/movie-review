@@ -2,7 +2,7 @@
 ## Introduction
 The Movie Review Website serves as an engaging hub where users can discover, rate, and share opinions on films. It combines both front-end and back-end technologies to deliver a smooth and interactive experience for movie lovers.
 
-## Fetures
+## Features
 • User Authentication (Signup,Login, Logout) 
 • View, Filter, and Search Movie List 
 • View and Submit Reviews 
