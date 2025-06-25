@@ -33,6 +33,6 @@ cd MovieReviewSite
 npm install cors dotenv express mongodb mongoose mongoose-aggregate-paginate-v2
 npm install
 ## Usage
-1.npm run start
+npm run start
 
 
