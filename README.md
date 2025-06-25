@@ -37,6 +37,7 @@ git clone https://github.com/jyoshna118/movie-review.git
 
 2.Install dependencies:
 npm install cors dotenv express mongodb mongoose mongoose-aggregate-paginate-v2
+
 npm install
 ## Usage
 npm run start
