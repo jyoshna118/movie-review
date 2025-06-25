@@ -1,0 +1,25 @@
+.star-rating {
+  display: flex;
+  gap: 5px;
+  margin: 10px 0;
+}
+
+.star {
+  font-size: 28px;
+  color: lightgray;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.star.filled {
+  color: gold;
+}
+
+.review-textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  resize: none;
+  border: 1px solid #ccc;
+}
